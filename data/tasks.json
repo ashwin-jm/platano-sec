@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "Check Platano emails at 10:30",
+    "done": false,
+    "created": "2026-04-30 02:26"
+  },
+  {
+    "id": 2,
+    "text": "Call mummy after the standup meeting",
+    "done": false,
+    "created": "2026-04-30 02:26"
+  },
+  {
+    "id": 3,
+    "text": "Learn the agent code",
+    "done": false,
+    "created": "2026-04-30 02:27"
+  },
+  {
+    "id": 4,
+    "text": "Learn the Anthropic PDF",
+    "done": false,
+    "created": "2026-04-30 02:28"
+  },
+  {
+    "id": 5,
+    "text": "Prepare for interviews with interns",
+    "done": false,
+    "created": "2026-04-30 02:29"
+  }
+]
